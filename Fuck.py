@@ -1,6 +1,7 @@
 import os
 os.system('clear')
-print("[×] Hello FB KID how Are You")
+print("[×] Hello FB KID how Are You 🤣")
+print('[×] If you son of your real father\n[~] Then again upload your tools on your real github')
 print('\n[1] Start Fuck FB-KID\n[0] Exit')
 x=input('[•] Option: ')
 if x in ['1','01']:
